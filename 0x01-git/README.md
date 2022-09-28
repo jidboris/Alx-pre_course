@@ -1,1 +1,1 @@
-changed content of commit
+changed message in commit
